@@ -1,5 +1,5 @@
 FROM node:6.2-onbuild
-#FROM ubuntu:latest
+#FROM ubuntu:latest test
 
 RUN apt-get update
 
