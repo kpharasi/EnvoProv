@@ -1,7 +1,7 @@
 name: EnvoProv
 description: Helping you set VMs on request
-email: ssdharma@ncsu.edu
-avatar: .envoprov/robot.jpg
+#email: ssdharma@ncsu.edu
+#avatar: .envoprov/robot.jpg
 config:
   - name: WitToken
     friendly_name: Wit AI token for NLP
